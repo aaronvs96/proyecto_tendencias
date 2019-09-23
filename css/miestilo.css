@@ -1,0 +1,80 @@
+body{
+	background: #101010;
+}
+/*.principal{
+	background: #CCC;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}*/
+
+.principal{
+    width: 100%;
+    max-width: 100%;
+    margin:0 auto;
+    overflow: auto;
+    background: #AED6F1;
+}
+
+.logo{
+	
+	background: #fff url("imagenes/logov2.png") no-repeat left;
+    margin: 10px;
+    margin-left: 10%;
+	padding-top: 10px;
+    height: 100px;
+    background-color: #fff;
+    width: 102px;
+}
+
+.logo input{
+    margin-left: 180%;
+    margin-top: 69%;
+	margin-bottom: 15%;
+	padding: 05px;
+	font-size: 15px;
+	border-radius: 10px;
+	border: 2px solid darkgray;
+    font-family: sans-serif;
+}
+
+.logo .input-48{
+	width: 150%;
+}
+
+.menuprincipal{
+	background: #333333;
+}
+
+.menuprincipal ul{
+	background-color: #456;
+	height: 40px;
+}
+
+.menuprincipal li{
+	float: left;
+	background-color: #456;
+	height: 20px;
+	width: auto;
+	border: thin #f30;
+	list-style: none;
+	margin:0px 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+    padding:8px 0px;
+	
+}
+
+.menuprincipal a{
+	color: white;
+	text-decoration: none;
+}
+
+.menuprincipal a:hover{
+	color: #000;
+}
+
+.contenido{
+	padding-top: 2px;
+	
+}
